@@ -49,6 +49,70 @@ I enjoy learning new technologies, improving my coding skills, and creating prac
 
 ### 🗄️ SQL Database System
 Designed and implemented a relational database system using SQL Server including tables, relationships, and queries to manage business data.
+### 1. ATM Banking System
+A simple web-based project that simulates basic ATM banking operations.  
+The project was created to practice front-end structure, user interaction, and the logic behind basic banking processes.
+
+**Key Features:**
+- Simulated ATM interface
+- Basic banking operations concept
+- Clean and simple UI
+- Practice project for web development fundamentals
+
+**Technologies Used:**
+- HTML
+- CSS
+- JavaScript
+
+---
+
+### 2. Responsive Web Designs
+A collection of responsive web pages and layouts built using HTML and CSS.  
+This project focuses on creating visually appealing designs that adapt to different screen sizes and devices.
+
+**Key Features:**
+- Responsive layouts
+- Modern web page designs
+- Mobile-friendly structure
+- Focus on UI and visual presentation
+
+**Technologies Used:**
+- HTML
+- CSS
+
+---
+
+### 3. Database Design & SQL
+This project demonstrates my understanding of relational database design and SQL fundamentals.  
+It includes creating tables, defining relationships, and working with structured data.
+
+**Key Features:**
+- Database table creation
+- Primary and foreign key relationships
+- SQL queries for data handling
+- Practice in relational database structure
+
+**Technologies Used:**
+- SQL
+- Database Design Concepts
+
+---
+
+### 4. ERD for Mathematics Store
+An Entity Relationship Diagram (ERD) designed for a mathematics store system.  
+The project represents the database structure and relationships between entities required for managing store operations.
+
+**Key Features:**
+- ERD design for a store system
+- Identifying entities and attributes
+- Defining relationships between tables
+- Strong foundation for database implementation
+
+**Technologies / Tools Used:**
+- ERD Design
+- Database Analysis
+- SQL Concepts
+
 
 ---
 

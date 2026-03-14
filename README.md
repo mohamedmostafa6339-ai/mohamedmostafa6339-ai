@@ -47,8 +47,7 @@ I enjoy learning new technologies, improving my coding skills, and creating prac
 
 # 📂 Projects
 
-### 🗄️ SQL Database System
-Designed and implemented a relational database system using SQL Server including tables, relationships, and queries to manage business data.
+
 ### 1. ATM Banking System
 A simple web-based project that simulates basic ATM banking operations.  
 The project was created to practice front-end structure, user interaction, and the logic behind basic banking processes.
